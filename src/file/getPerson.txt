@@ -1,0 +1,8 @@
+franz laras, Pria, true, 25, Jl.abc 81 Bogor, 3120040923, 081234569876
+Bambang, Pria, false, 40, Jl.abc 81 Kuningan, 3120040455, 087809093423
+Tari Sari, Wanita, true, 30, Jl.abc 81 Tanah Abang, 3120040974, 082275452970
+Ayuni, Wanita, true, 22, Jl.abc 81 Sunter, 3120040124, 087729450953
+Bambang, Pria, false, 40, Jl.abc 81 Kuningan, 3120040455, 087809093423
+Tari Sari, Wanita, true, 30, Jl.abc 81 Tanah Abang, 3120040974, 082275452970
+Ayuni, Wanita, true, 22, Jl.abc 81 Sunter, 3120040124, 087729450953
+franz laras, Pria, false, 20, Jl.kms 20 Tanjung, 3120040923, 081234569876
